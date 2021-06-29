@@ -1,1 +1,3 @@
 Esto es un log de mi programa
+
+Otro linea de log
